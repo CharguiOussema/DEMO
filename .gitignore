@@ -1,3 +1,5 @@
 application.log
 config.log
-## ou bien *.log tous les fichiers 
+## ou bien *.log tous les fichiers
+
+database/
